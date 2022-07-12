@@ -1,4 +1,4 @@
-# Computed-Tomography-Liver-Segmentation-and-Classification
+# Computed Tomography Liver Segmentation and Classification
 My graduation project in Nanjing University
 ## Introduction
 This is an auxiliary diagnosis system that executes liver segmentation first and then executes classification. Previous students found that compared with manually acquired liver segments, using automatically acquired liver segments will produce a negative impact on classification. Typically, people treat the last feature map with the Sigmoid function. Then, set a threshold to get binary masks of the liver, which is named binarization operation here. I found that if I remove the binarization operation and then got a kind of liver mask named Prob-Mask, I will ameliorate the negative influence of the automatically acquired liver segments. Although joint learning has been proposed for a while, it is interested to find that. The whole project is based on the LiTS dataset.
