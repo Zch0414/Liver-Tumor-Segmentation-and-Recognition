@@ -1,11 +1,16 @@
-# Liver Tumor Segmentation and Recognition
+# Swin-Ynet: Joint Learning for Liver Tumor Segmentation and Classification with a Swin-Transformer
 
-This is the repository of my studies on liver tumor segmentation and recognition. Each study is kept in a different branch.
+This is the repository of my EECS 504 project
 
 ----
 
 ## Two-stages Liver Tumor Recognition
-![outline](https://user-images.githubusercontent.com/108105092/175440357-4f5fd8ec-b24e-44e1-808b-9f5e2cc8f84f.png)
+![swin](https://github.com/Zch0414/Liver-Tumor-Segmentation-and-Recognition/blob/swin-ynet/img/pipeline.png)
+
+Classification Accuracy: 3% up 
+Liver Dice Score: 1% up
+Liver Tumor Dice Score: 5% up
+
 
 
 
