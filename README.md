@@ -5,7 +5,7 @@ This is the repository of my studies on liver tumor segmentation and recognition
 ----
 
 ## Two-stages Liver Tumor Recognition
-![2stage](https://github.com/Zch0414/Liver-Tumor-Segmentation-and-Recognition/blob/main/images/2stage_pipeline.png)
+![2stage](https://github.com/Zch0414/Liver-Tumor-Segmentation-and-Recognition/blob/2stage/img/2stage_pipeline.png)
 
 
 
