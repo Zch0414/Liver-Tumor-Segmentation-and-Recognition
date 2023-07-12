@@ -1,6 +1,6 @@
 # Swin-Ynet: Joint Learning for Liver Tumor Segmentation and Classification with a Swin-Transformer
 
-This is the repository of my EECS 504 project
+This is the repository of my EECS 504 project with help from Yifan Wang in the experiment part.
 
 ----
 
