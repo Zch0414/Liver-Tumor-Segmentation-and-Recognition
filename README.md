@@ -1,6 +1,6 @@
 # Swin-Ynet: Joint Learning for Liver Tumor Segmentation and Classification with a Swin-Transformer
 
-This is the repository of my EECS 504 project with help from Yifan Wang in the experiment part.
+This is the repository of my EECS 504 project.
 
 ----
 
@@ -19,6 +19,9 @@ Classification Accuracy: 3% up
 Liver Dice Score: 1% up
 
 Liver Tumor Dice Score: 5% up
+
+## Acknowledgment
+The experiment part is accomplished with help from Yifan Wang.
 
 
 
