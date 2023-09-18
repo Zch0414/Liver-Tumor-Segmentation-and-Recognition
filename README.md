@@ -14,11 +14,17 @@ This work draws inspiration from the Y-Net but differs in its primary objective.
 
 ## Result
 
+![result](https://github.com/Zch0414/Liver-Tumor-Segmentation-and-Recognition/blob/swin-ynet/img/results.png)
+
+----
+
 Classification Accuracy: 3% up 
 
 Liver Dice Score: 1% up
 
 Liver Tumor Dice Score: 5% up
+
+----
 
 ## Acknowledgment
 The experiment part is accomplished with help from Yifan Wang.
